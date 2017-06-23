@@ -1,0 +1,603 @@
+Jun 11 08:17:01 pylon CRON[31480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 08:17:01 pylon CRON[31480]: pam_unix(cron:session): session closed for user root
+Jun 11 09:17:01 pylon CRON[31509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 09:17:01 pylon CRON[31509]: pam_unix(cron:session): session closed for user root
+Jun 11 10:17:01 pylon CRON[31534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 10:17:01 pylon CRON[31534]: pam_unix(cron:session): session closed for user root
+Jun 11 11:17:01 pylon CRON[31565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 11:17:01 pylon CRON[31565]: pam_unix(cron:session): session closed for user root
+Jun 11 12:17:01 pylon CRON[31592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 12:17:01 pylon CRON[31592]: pam_unix(cron:session): session closed for user root
+Jun 11 13:17:01 pylon CRON[31620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 13:17:01 pylon CRON[31620]: pam_unix(cron:session): session closed for user root
+Jun 11 14:17:01 pylon CRON[31647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 14:17:01 pylon CRON[31647]: pam_unix(cron:session): session closed for user root
+Jun 11 15:17:01 pylon CRON[31672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 15:17:01 pylon CRON[31672]: pam_unix(cron:session): session closed for user root
+Jun 11 16:17:01 pylon CRON[31703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 16:17:01 pylon CRON[31703]: pam_unix(cron:session): session closed for user root
+Jun 11 17:17:01 pylon CRON[31732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 17:17:01 pylon CRON[31732]: pam_unix(cron:session): session closed for user root
+Jun 11 18:17:01 pylon CRON[31760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 18:17:01 pylon CRON[31760]: pam_unix(cron:session): session closed for user root
+Jun 11 19:17:01 pylon CRON[31785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 19:17:01 pylon CRON[31785]: pam_unix(cron:session): session closed for user root
+Jun 11 20:17:01 pylon CRON[31813]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 20:17:01 pylon CRON[31813]: pam_unix(cron:session): session closed for user root
+Jun 11 21:17:01 pylon CRON[31840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 21:17:01 pylon CRON[31840]: pam_unix(cron:session): session closed for user root
+Jun 11 22:17:01 pylon CRON[31865]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 22:17:01 pylon CRON[31865]: pam_unix(cron:session): session closed for user root
+Jun 11 23:17:01 pylon CRON[31892]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 11 23:17:01 pylon CRON[31892]: pam_unix(cron:session): session closed for user root
+Jun 12 00:17:01 pylon CRON[31920]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 00:17:01 pylon CRON[31920]: pam_unix(cron:session): session closed for user root
+Jun 12 01:17:01 pylon CRON[31948]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 01:17:01 pylon CRON[31948]: pam_unix(cron:session): session closed for user root
+Jun 12 02:17:01 pylon CRON[31977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 02:17:01 pylon CRON[31977]: pam_unix(cron:session): session closed for user root
+Jun 12 03:17:01 pylon CRON[32004]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 03:17:01 pylon CRON[32004]: pam_unix(cron:session): session closed for user root
+Jun 12 04:17:01 pylon CRON[32032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 04:17:01 pylon CRON[32032]: pam_unix(cron:session): session closed for user root
+Jun 12 05:17:01 pylon CRON[32060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 05:17:01 pylon CRON[32060]: pam_unix(cron:session): session closed for user root
+Jun 12 06:17:01 pylon CRON[32085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 06:17:01 pylon CRON[32085]: pam_unix(cron:session): session closed for user root
+Jun 12 06:25:01 pylon CRON[32091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 06:25:01 pylon CRON[32091]: pam_unix(cron:session): session closed for user root
+Jun 12 07:17:01 pylon CRON[32115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 07:17:01 pylon CRON[32115]: pam_unix(cron:session): session closed for user root
+Jun 12 07:30:01 pylon CRON[32123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 07:30:01 pylon CRON[32123]: pam_unix(cron:session): session closed for user root
+Jun 12 08:17:01 pylon CRON[32430]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 08:17:01 pylon CRON[32430]: pam_unix(cron:session): session closed for user root
+Jun 12 09:17:01 pylon CRON[32456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 09:17:01 pylon CRON[32456]: pam_unix(cron:session): session closed for user root
+Jun 12 10:17:01 pylon CRON[32483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 10:17:01 pylon CRON[32483]: pam_unix(cron:session): session closed for user root
+Jun 12 11:17:01 pylon CRON[32511]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 11:17:01 pylon CRON[32511]: pam_unix(cron:session): session closed for user root
+Jun 12 12:17:01 pylon CRON[32565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 12:17:01 pylon CRON[32565]: pam_unix(cron:session): session closed for user root
+Jun 12 13:17:01 pylon CRON[416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 13:17:01 pylon CRON[416]: pam_unix(cron:session): session closed for user root
+Jun 12 13:19:17 pylon sshd[420]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.50.0.114  user=manual
+Jun 12 13:19:17 pylon sshd[420]: pam_winbind(sshd:auth): getting password (0x00000388)
+Jun 12 13:19:17 pylon sshd[420]: pam_winbind(sshd:auth): pam_get_item returned a password
+Jun 12 13:19:17 pylon sshd[420]: pam_winbind(sshd:auth): request wbcLogonUser failed: WBC_ERR_AUTH_ERROR, PAM error: PAM_USER_UNKNOWN (10), NTSTATUS: NT_STATUS_NO_SUCH_USER, Error message was: No such user
+Jun 12 13:19:19 pylon sshd[420]: Failed password for manual from 10.50.0.114 port 52754 ssh2
+Jun 12 13:19:21 pylon sshd[420]: Accepted password for manual from 10.50.0.114 port 52754 ssh2
+Jun 12 13:19:21 pylon sshd[420]: pam_unix(sshd:session): session opened for user manual by (uid=0)
+Jun 12 14:17:01 pylon CRON[1223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 14:17:01 pylon CRON[1223]: pam_unix(cron:session): session closed for user root
+Jun 12 14:27:12 pylon sshd[622]: Received disconnect from 10.50.0.114: 11: disconnected by server request
+Jun 12 14:27:12 pylon sshd[420]: pam_unix(sshd:session): session closed for user manual
+Jun 12 15:17:01 pylon CRON[1265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 15:17:01 pylon CRON[1265]: pam_unix(cron:session): session closed for user root
+Jun 12 16:17:01 pylon CRON[1303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 16:17:01 pylon CRON[1303]: pam_unix(cron:session): session closed for user root
+Jun 12 17:17:01 pylon CRON[2110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 17:17:01 pylon CRON[2110]: pam_unix(cron:session): session closed for user root
+Jun 12 18:17:01 pylon CRON[2364]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 18:17:01 pylon CRON[2364]: pam_unix(cron:session): session closed for user root
+Jun 12 19:17:01 pylon CRON[2391]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 19:17:01 pylon CRON[2391]: pam_unix(cron:session): session closed for user root
+Jun 12 20:17:01 pylon CRON[2418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 20:17:01 pylon CRON[2418]: pam_unix(cron:session): session closed for user root
+Jun 12 21:17:01 pylon CRON[2447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 21:17:01 pylon CRON[2447]: pam_unix(cron:session): session closed for user root
+Jun 12 22:17:01 pylon CRON[2489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 22:17:01 pylon CRON[2489]: pam_unix(cron:session): session closed for user root
+Jun 12 23:17:01 pylon CRON[2518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 12 23:17:01 pylon CRON[2518]: pam_unix(cron:session): session closed for user root
+Jun 13 00:17:01 pylon CRON[2543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 00:17:01 pylon CRON[2543]: pam_unix(cron:session): session closed for user root
+Jun 13 01:17:01 pylon CRON[2568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 01:17:01 pylon CRON[2568]: pam_unix(cron:session): session closed for user root
+Jun 13 02:17:01 pylon CRON[2597]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 02:17:01 pylon CRON[2597]: pam_unix(cron:session): session closed for user root
+Jun 13 03:17:01 pylon CRON[2624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 03:17:01 pylon CRON[2624]: pam_unix(cron:session): session closed for user root
+Jun 13 04:17:01 pylon CRON[2664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 04:17:01 pylon CRON[2664]: pam_unix(cron:session): session closed for user root
+Jun 13 05:17:01 pylon CRON[2701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 05:17:01 pylon CRON[2701]: pam_unix(cron:session): session closed for user root
+Jun 13 06:17:02 pylon CRON[2730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 06:17:02 pylon CRON[2730]: pam_unix(cron:session): session closed for user root
+Jun 13 06:25:01 pylon CRON[2740]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 06:25:01 pylon CRON[2740]: pam_unix(cron:session): session closed for user root
+Jun 13 07:17:01 pylon CRON[2762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 07:17:01 pylon CRON[2762]: pam_unix(cron:session): session closed for user root
+Jun 13 07:30:01 pylon CRON[2769]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 07:30:01 pylon CRON[2769]: pam_unix(cron:session): session closed for user root
+Jun 13 08:17:01 pylon CRON[3082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 08:17:01 pylon CRON[3082]: pam_unix(cron:session): session closed for user root
+Jun 13 09:17:01 pylon CRON[3109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 09:17:01 pylon CRON[3109]: pam_unix(cron:session): session closed for user root
+Jun 13 10:17:01 pylon CRON[3136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 10:17:01 pylon CRON[3136]: pam_unix(cron:session): session closed for user root
+Jun 13 11:17:01 pylon CRON[5963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 11:17:01 pylon CRON[5963]: pam_unix(cron:session): session closed for user root
+Jun 13 12:17:01 pylon CRON[5994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 12:17:01 pylon CRON[5994]: pam_unix(cron:session): session closed for user root
+Jun 13 13:17:01 pylon CRON[6022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 13:17:01 pylon CRON[6022]: pam_unix(cron:session): session closed for user root
+Jun 13 14:17:01 pylon CRON[6052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 14:17:01 pylon CRON[6052]: pam_unix(cron:session): session closed for user root
+Jun 13 15:17:01 pylon CRON[6321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 15:17:01 pylon CRON[6321]: pam_unix(cron:session): session closed for user root
+Jun 13 16:17:01 pylon CRON[12713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 16:17:01 pylon CRON[12713]: pam_unix(cron:session): session closed for user root
+Jun 13 17:17:01 pylon CRON[12744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 17:17:01 pylon CRON[12744]: pam_unix(cron:session): session closed for user root
+Jun 13 18:17:01 pylon CRON[13301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 18:17:01 pylon CRON[13301]: pam_unix(cron:session): session closed for user root
+Jun 13 19:17:01 pylon CRON[14307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 19:17:01 pylon CRON[14307]: pam_unix(cron:session): session closed for user root
+Jun 13 20:17:01 pylon CRON[21185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 20:17:01 pylon CRON[21185]: pam_unix(cron:session): session closed for user root
+Jun 13 20:19:02 pylon sudo:  jenkins : TTY=pts/5 ; PWD=/mnt/hdd/jenkins/arsn732tr/arsn732tr_pkg ; USER=root ; COMMAND=/bin/tar xvzf ROOTFS.tgz
+Jun 13 20:19:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 13 20:19:06 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 13 20:40:09 pylon sshd[4155]: Received disconnect from 10.50.1.2: 11: disconnected by user
+Jun 13 20:40:09 pylon sshd[3956]: pam_unix(sshd:session): session closed for user pjfe
+Jun 13 20:40:17 pylon sshd[30388]: Accepted password for pjfe from 10.50.1.2 port 6090 ssh2
+Jun 13 20:40:17 pylon sshd[30388]: pam_unix(sshd:session): session opened for user pjfe by (uid=0)
+Jun 13 21:17:01 pylon CRON[10188]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 21:17:01 pylon CRON[10188]: pam_unix(cron:session): session closed for user root
+Jun 13 22:17:01 pylon CRON[10216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 22:17:01 pylon CRON[10216]: pam_unix(cron:session): session closed for user root
+Jun 13 23:17:01 pylon CRON[10245]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 13 23:17:01 pylon CRON[10245]: pam_unix(cron:session): session closed for user root
+Jun 14 00:17:01 pylon CRON[10271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 00:17:01 pylon CRON[10271]: pam_unix(cron:session): session closed for user root
+Jun 14 01:17:01 pylon CRON[10297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 01:17:01 pylon CRON[10297]: pam_unix(cron:session): session closed for user root
+Jun 14 02:17:01 pylon CRON[10323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 02:17:01 pylon CRON[10323]: pam_unix(cron:session): session closed for user root
+Jun 14 03:17:01 pylon CRON[10348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 03:17:01 pylon CRON[10348]: pam_unix(cron:session): session closed for user root
+Jun 14 04:17:01 pylon CRON[10375]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 04:17:01 pylon CRON[10375]: pam_unix(cron:session): session closed for user root
+Jun 14 05:17:01 pylon CRON[10403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 05:17:01 pylon CRON[10403]: pam_unix(cron:session): session closed for user root
+Jun 14 06:17:01 pylon CRON[10431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 06:17:01 pylon CRON[10431]: pam_unix(cron:session): session closed for user root
+Jun 14 06:25:01 pylon CRON[10438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 06:25:01 pylon CRON[10438]: pam_unix(cron:session): session closed for user root
+Jun 14 07:17:01 pylon CRON[10460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 07:17:01 pylon CRON[10460]: pam_unix(cron:session): session closed for user root
+Jun 14 07:30:01 pylon CRON[10467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 07:30:01 pylon CRON[10467]: pam_unix(cron:session): session closed for user root
+Jun 14 08:17:01 pylon CRON[10777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 08:17:01 pylon CRON[10777]: pam_unix(cron:session): session closed for user root
+Jun 14 09:17:01 pylon CRON[10808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 09:17:01 pylon CRON[10808]: pam_unix(cron:session): session closed for user root
+Jun 14 09:55:32 pylon sshd[10831]: Accepted publickey for jhkang from 10.50.1.214 port 59178 ssh2
+Jun 14 09:55:32 pylon sshd[10831]: pam_unix(sshd:session): session opened for user jhkang by (uid=0)
+Jun 14 09:55:50 pylon sshd[11030]: Received disconnect from 10.50.1.214: 11: disconnected by user
+Jun 14 09:55:50 pylon sshd[10831]: pam_unix(sshd:session): session closed for user jhkang
+Jun 14 10:17:01 pylon CRON[11170]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 10:17:01 pylon CRON[11170]: pam_unix(cron:session): session closed for user root
+Jun 14 11:17:01 pylon CRON[11200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 11:17:01 pylon CRON[11200]: pam_unix(cron:session): session closed for user root
+Jun 14 12:17:01 pylon CRON[13098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 12:17:01 pylon CRON[13098]: pam_unix(cron:session): session closed for user root
+Jun 14 13:17:01 pylon CRON[23761]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 13:17:01 pylon CRON[23761]: pam_unix(cron:session): session closed for user root
+Jun 14 14:01:55 pylon sshd[25380]: Accepted password for sc.kwon from 10.50.0.30 port 36042 ssh2
+Jun 14 14:01:55 pylon sshd[25380]: pam_unix(sshd:session): session opened for user sc.kwon by (uid=0)
+Jun 14 14:02:07 pylon su[25693]: pam_unix(su:auth): authentication failure; logname=sc.kwon uid=1012 euid=0 tty=/dev/pts/1 ruser=sc.kwon rhost=  user=jenkins
+Jun 14 14:02:07 pylon su[25693]: pam_winbind(su:auth): getting password (0x00000388)
+Jun 14 14:02:07 pylon su[25693]: pam_winbind(su:auth): pam_get_item returned a password
+Jun 14 14:02:07 pylon su[25693]: pam_winbind(su:auth): request wbcLogonUser failed: WBC_ERR_AUTH_ERROR, PAM error: PAM_USER_UNKNOWN (10), NTSTATUS: NT_STATUS_NO_SUCH_USER, Error message was: No such user
+Jun 14 14:02:09 pylon su[25693]: pam_authenticate: Authentication failure
+Jun 14 14:02:09 pylon su[25693]: FAILED su for jenkins by sc.kwon
+Jun 14 14:02:09 pylon su[25693]: - /dev/pts/1 sc.kwon:jenkins
+Jun 14 14:02:16 pylon su[25694]: Successful su for jenkins by sc.kwon
+Jun 14 14:02:16 pylon su[25694]: + /dev/pts/1 sc.kwon:jenkins
+Jun 14 14:02:16 pylon su[25694]: pam_unix(su:session): session opened for user jenkins by sc.kwon(uid=1012)
+Jun 14 14:17:01 pylon CRON[25837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 14:17:01 pylon CRON[25837]: pam_unix(cron:session): session closed for user root
+Jun 14 14:32:13 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh romfs ./res/rootfs.txt
+Jun 14 14:32:13 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:13 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:13 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs romfs rootfs.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:32:13 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins romfs
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/usr/bin/find romfs -type d
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 ./romfs/home
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins rootfs.squashfs
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 rootfs.squashfs
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:14 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh . ./res/home.txt
+Jun 14 14:32:14 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs ./home mainappl.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:32:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:38 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins home
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:38 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 home
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:38 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins mainappl.squashfs
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:32:38 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 mainappl.squashfs
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:32:38 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:01 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh romfs ./res/rootfs.txt
+Jun 14 14:40:01 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:01 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:01 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs romfs rootfs.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:40:01 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins romfs
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/usr/bin/find romfs -type d
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 ./romfs/home
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins rootfs.squashfs
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 rootfs.squashfs
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:02 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh . ./res/home.txt
+Jun 14 14:40:02 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:05 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:05 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs ./home mainappl.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:40:05 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:25 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins home
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:25 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 home
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:25 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins mainappl.squashfs
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:40:25 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 mainappl.squashfs
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:40:25 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:42 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh romfs ./res/rootfs.txt
+Jun 14 14:47:42 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:42 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:42 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs romfs rootfs.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:47:42 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins romfs
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/usr/bin/find romfs -type d
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 ./romfs/home
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins rootfs.squashfs
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 rootfs.squashfs
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:46 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh . ./res/home.txt
+Jun 14 14:47:46 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:47:48 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:47:48 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs ./home mainappl.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:47:48 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:48:09 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins home
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:48:09 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 home
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:48:09 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins mainappl.squashfs
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:48:09 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 mainappl.squashfs
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:48:09 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:16 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh romfs ./res/rootfs.txt
+Jun 14 14:49:16 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:16 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:16 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs romfs rootfs.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:49:16 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins romfs
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/usr/bin/find romfs -type d
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 ./romfs/home
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins rootfs.squashfs
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 rootfs.squashfs
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:17 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/setperm.sh . ./res/home.txt
+Jun 14 14:49:17 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:19 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:19 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=./tools/mksquashfs ./home mainappl.squashfs -processors 1 -p /dev/console c 0600 0 0 5 1
+Jun 14 14:49:19 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:40 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown -R jenkins:jenkins home
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:40 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod -R 0777 home
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:40 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chown jenkins:jenkins mainappl.squashfs
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 14:49:40 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/echo/echo_pkg ; USER=root ; COMMAND=/bin/chmod 0644 mainappl.squashfs
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 14 14:49:40 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 14 15:05:04 pylon su[25694]: pam_unix(su:session): session closed for user jenkins
+Jun 14 15:05:06 pylon sshd[25568]: Received disconnect from 10.50.0.30: 11: disconnected by user
+Jun 14 15:05:06 pylon sshd[25380]: pam_unix(sshd:session): session closed for user sc.kwon
+Jun 14 15:17:01 pylon CRON[29396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 15:17:01 pylon CRON[29396]: pam_unix(cron:session): session closed for user root
+Jun 14 16:17:01 pylon CRON[29765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 16:17:01 pylon CRON[29765]: pam_unix(cron:session): session closed for user root
+Jun 14 17:17:01 pylon CRON[30273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 17:17:01 pylon CRON[30273]: pam_unix(cron:session): session closed for user root
+Jun 14 17:34:52 pylon sshd[30341]: Accepted password for sychoi from 10.50.1.179 port 5094 ssh2
+Jun 14 17:34:52 pylon sshd[30341]: pam_unix(sshd:session): session opened for user sychoi by (uid=0)
+Jun 14 18:17:01 pylon CRON[5549]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 18:17:01 pylon CRON[5549]: pam_unix(cron:session): session closed for user root
+Jun 14 18:24:30 pylon sshd[5556]: Accepted password for lenna from 10.20.0.46 port 55194 ssh2
+Jun 14 18:24:30 pylon sshd[5556]: pam_unix(sshd:session): session opened for user lenna by (uid=0)
+Jun 14 18:27:06 pylon smbd[5850]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:28:04 pylon smbd[5850]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:28:14 pylon smbd[5852]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:28:59 pylon smbd[5852]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:29:04 pylon smbd[5852]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:29:15 pylon smbd[5852]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:31:01 pylon smbd[5855]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:31:11 pylon smbd[5855]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:32:54 pylon smbd[5858]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:33:05 pylon smbd[5858]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:35:03 pylon smbd[5860]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:35:14 pylon smbd[5860]: pam_unix(samba:session): session closed for user lenna
+Jun 14 18:41:08 pylon smbd[5864]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 18:41:18 pylon smbd[5864]: pam_unix(samba:session): session closed for user lenna
+Jun 14 19:00:39 pylon smbd[5879]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 19:00:56 pylon smbd[5879]: pam_unix(samba:session): session closed for user lenna
+Jun 14 19:02:50 pylon smbd[5881]: pam_unix(samba:session): session opened for user lenna by (uid=0)
+Jun 14 19:03:13 pylon smbd[5881]: pam_unix(samba:session): session closed for user lenna
+Jun 14 19:03:43 pylon sshd[5556]: pam_unix(sshd:session): session closed for user lenna
+Jun 14 19:17:01 pylon CRON[9134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 19:17:01 pylon CRON[9134]: pam_unix(cron:session): session closed for user root
+Jun 14 20:17:01 pylon CRON[9604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 20:17:01 pylon CRON[9604]: pam_unix(cron:session): session closed for user root
+Jun 14 21:04:27 pylon sshd[30341]: pam_unix(sshd:session): session closed for user sychoi
+Jun 14 21:17:01 pylon CRON[9866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 21:17:02 pylon CRON[9866]: pam_unix(cron:session): session closed for user root
+Jun 14 22:17:01 pylon CRON[9909]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 22:17:01 pylon CRON[9909]: pam_unix(cron:session): session closed for user root
+Jun 14 23:17:01 pylon CRON[9934]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 14 23:17:01 pylon CRON[9934]: pam_unix(cron:session): session closed for user root
+Jun 15 00:17:01 pylon CRON[9963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 00:17:01 pylon CRON[9963]: pam_unix(cron:session): session closed for user root
+Jun 15 01:17:01 pylon CRON[9989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 01:17:01 pylon CRON[9989]: pam_unix(cron:session): session closed for user root
+Jun 15 02:17:01 pylon CRON[10014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 02:17:01 pylon CRON[10014]: pam_unix(cron:session): session closed for user root
+Jun 15 03:17:01 pylon CRON[10043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 03:17:01 pylon CRON[10043]: pam_unix(cron:session): session closed for user root
+Jun 15 04:17:01 pylon CRON[10073]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 04:17:01 pylon CRON[10073]: pam_unix(cron:session): session closed for user root
+Jun 15 05:17:01 pylon CRON[10101]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 05:17:01 pylon CRON[10101]: pam_unix(cron:session): session closed for user root
+Jun 15 06:17:01 pylon CRON[10128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 06:17:01 pylon CRON[10128]: pam_unix(cron:session): session closed for user root
+Jun 15 06:25:01 pylon CRON[10134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 06:25:01 pylon CRON[10134]: pam_unix(cron:session): session closed for user root
+Jun 15 07:17:01 pylon CRON[10157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 07:17:01 pylon CRON[10157]: pam_unix(cron:session): session closed for user root
+Jun 15 07:30:01 pylon CRON[10164]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 07:30:01 pylon CRON[10164]: pam_unix(cron:session): session closed for user root
+Jun 15 08:17:01 pylon CRON[10477]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 08:17:01 pylon CRON[10477]: pam_unix(cron:session): session closed for user root
+Jun 15 09:17:01 pylon CRON[10504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 09:17:01 pylon CRON[10504]: pam_unix(cron:session): session closed for user root
+Jun 15 10:17:01 pylon CRON[10530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 10:17:01 pylon CRON[10530]: pam_unix(cron:session): session closed for user root
+Jun 15 11:17:01 pylon CRON[10560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 11:17:01 pylon CRON[10560]: pam_unix(cron:session): session closed for user root
+Jun 15 12:17:01 pylon CRON[10789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 12:17:01 pylon CRON[10789]: pam_unix(cron:session): session closed for user root
+Jun 15 13:17:01 pylon CRON[23230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 13:17:01 pylon CRON[23230]: pam_unix(cron:session): session closed for user root
+Jun 15 14:17:01 pylon CRON[25663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 14:17:01 pylon CRON[25663]: pam_unix(cron:session): session closed for user root
+Jun 15 15:17:01 pylon CRON[26279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 15:17:01 pylon CRON[26279]: pam_unix(cron:session): session closed for user root
+Jun 15 16:17:01 pylon CRON[26371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 16:17:01 pylon CRON[26371]: pam_unix(cron:session): session closed for user root
+Jun 15 16:29:37 pylon smbd[27139]: pam_unix(samba:session): session opened for user jhkang by (uid=0)
+Jun 15 16:30:47 pylon sshd[27370]: Accepted publickey for jhkang from 10.50.1.214 port 53440 ssh2
+Jun 15 16:30:47 pylon sshd[27370]: pam_unix(sshd:session): session opened for user jhkang by (uid=0)
+Jun 15 16:31:02 pylon sudo:   jhkang : TTY=pts/1 ; PWD=/home/jhkang ; USER=root ; COMMAND=/bin/mv cns /var/www/
+Jun 15 16:31:02 pylon sudo: pam_unix(sudo:session): session opened for user root by jhkang(uid=1001)
+Jun 15 16:31:02 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 15 17:17:01 pylon CRON[28027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 17:17:01 pylon CRON[28027]: pam_unix(cron:session): session closed for user root
+Jun 15 18:17:01 pylon CRON[28533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 18:17:01 pylon CRON[28533]: pam_unix(cron:session): session closed for user root
+Jun 15 19:17:01 pylon CRON[28791]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 19:17:01 pylon CRON[28791]: pam_unix(cron:session): session closed for user root
+Jun 15 20:00:02 pylon sshd[28821]: Accepted password for sc.kwon from 10.50.0.156 port 9814 ssh2
+Jun 15 20:00:02 pylon sshd[28821]: pam_unix(sshd:session): session opened for user sc.kwon by (uid=0)
+Jun 15 20:02:56 pylon su[29135]: Successful su for jenkins by sc.kwon
+Jun 15 20:02:56 pylon su[29135]: + /dev/pts/6 sc.kwon:jenkins
+Jun 15 20:02:56 pylon su[29135]: pam_unix(su:session): session opened for user jenkins by sc.kwon(uid=1012)
+Jun 15 20:17:01 pylon CRON[29361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 20:17:01 pylon CRON[29361]: pam_unix(cron:session): session closed for user root
+Jun 15 21:17:01 pylon CRON[29399]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 21:17:01 pylon CRON[29399]: pam_unix(cron:session): session closed for user root
+Jun 15 22:17:01 pylon CRON[29427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 22:17:01 pylon CRON[29427]: pam_unix(cron:session): session closed for user root
+Jun 15 23:17:01 pylon CRON[29454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 15 23:17:01 pylon CRON[29454]: pam_unix(cron:session): session closed for user root
+Jun 16 00:17:01 pylon CRON[29481]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 00:17:01 pylon CRON[29481]: pam_unix(cron:session): session closed for user root
+Jun 16 01:17:01 pylon CRON[29507]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 01:17:01 pylon CRON[29507]: pam_unix(cron:session): session closed for user root
+Jun 16 02:17:01 pylon CRON[29533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 02:17:01 pylon CRON[29533]: pam_unix(cron:session): session closed for user root
+Jun 16 03:17:01 pylon CRON[29561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 03:17:01 pylon CRON[29561]: pam_unix(cron:session): session closed for user root
+Jun 16 04:17:01 pylon CRON[29591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 04:17:01 pylon CRON[29591]: pam_unix(cron:session): session closed for user root
+Jun 16 05:17:01 pylon CRON[29619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 05:17:01 pylon CRON[29619]: pam_unix(cron:session): session closed for user root
+Jun 16 06:17:01 pylon CRON[29646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 06:17:01 pylon CRON[29646]: pam_unix(cron:session): session closed for user root
+Jun 16 06:25:01 pylon CRON[29653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 06:25:01 pylon CRON[29653]: pam_unix(cron:session): session closed for user root
+Jun 16 07:17:01 pylon CRON[29676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 07:17:01 pylon CRON[29676]: pam_unix(cron:session): session closed for user root
+Jun 16 07:30:01 pylon CRON[29683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 07:30:01 pylon CRON[29683]: pam_unix(cron:session): session closed for user root
+Jun 16 08:17:01 pylon CRON[30008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 08:17:01 pylon CRON[30008]: pam_unix(cron:session): session closed for user root
+Jun 16 09:17:01 pylon CRON[30036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 09:17:01 pylon CRON[30036]: pam_unix(cron:session): session closed for user root
+Jun 16 10:17:01 pylon CRON[30084]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 10:17:01 pylon CRON[30084]: pam_unix(cron:session): session closed for user root
+Jun 16 10:17:12 pylon su[29135]: pam_unix(su:session): session closed for user jenkins
+Jun 16 10:17:13 pylon sshd[29009]: Received disconnect from 10.50.0.156: 11: disconnected by user
+Jun 16 10:17:13 pylon sshd[28821]: pam_unix(sshd:session): session closed for user sc.kwon
+Jun 16 11:17:01 pylon CRON[30224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 11:17:01 pylon CRON[30224]: pam_unix(cron:session): session closed for user root
+Jun 16 12:17:01 pylon CRON[30750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 12:17:01 pylon CRON[30750]: pam_unix(cron:session): session closed for user root
+Jun 16 13:01:41 pylon sshd[27569]: Received disconnect from 10.50.1.214: 11: disconnected by user
+Jun 16 13:01:41 pylon sshd[27370]: pam_unix(sshd:session): session closed for user jhkang
+Jun 16 13:11:13 pylon sshd[30778]: Accepted publickey for jhkang from 10.50.1.214 port 35248 ssh2
+Jun 16 13:11:13 pylon sshd[30778]: pam_unix(sshd:session): session opened for user jhkang by (uid=0)
+Jun 16 13:17:01 pylon CRON[31280]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 13:17:01 pylon CRON[31280]: pam_unix(cron:session): session closed for user root
+Jun 16 14:17:01 pylon CRON[31574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 14:17:01 pylon CRON[31574]: pam_unix(cron:session): session closed for user root
+Jun 16 15:17:01 pylon CRON[31685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 15:17:02 pylon CRON[31685]: pam_unix(cron:session): session closed for user root
+Jun 16 16:17:01 pylon CRON[31714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 16:17:01 pylon CRON[31714]: pam_unix(cron:session): session closed for user root
+Jun 16 17:17:01 pylon CRON[31740]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 17:17:01 pylon CRON[31740]: pam_unix(cron:session): session closed for user root
+Jun 16 18:17:01 pylon CRON[19606]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 18:17:01 pylon CRON[19606]: pam_unix(cron:session): session closed for user root
+Jun 16 18:22:44 pylon sudo:  jenkins : TTY=pts/6 ; PWD=/mnt/hdd/jenkins/arsn732tr/arsn732tr_pkg ; USER=root ; COMMAND=/bin/tar xvzf ROOTFS.tgz
+Jun 16 18:22:44 pylon sudo: pam_unix(sudo:session): session opened for user root by (uid=121)
+Jun 16 18:22:49 pylon sudo: pam_unix(sudo:session): session closed for user root
+Jun 16 19:17:01 pylon CRON[31585]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 19:17:01 pylon CRON[31585]: pam_unix(cron:session): session closed for user root
+Jun 16 20:01:22 pylon smbd[9035]: pam_unix(samba:session): session closed for user sc.kwon
+Jun 16 20:17:01 pylon CRON[31612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 20:17:01 pylon CRON[31612]: pam_unix(cron:session): session closed for user root
+Jun 16 21:17:01 pylon CRON[31640]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 21:17:01 pylon CRON[31640]: pam_unix(cron:session): session closed for user root
+Jun 16 22:17:01 pylon CRON[31666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 22:17:01 pylon CRON[31666]: pam_unix(cron:session): session closed for user root
+Jun 16 23:17:01 pylon CRON[31693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 23:17:01 pylon CRON[31693]: pam_unix(cron:session): session closed for user root
+Jun 17 00:17:01 pylon CRON[31721]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 00:17:01 pylon CRON[31721]: pam_unix(cron:session): session closed for user root
+Jun 17 01:17:01 pylon CRON[31748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 01:17:01 pylon CRON[31748]: pam_unix(cron:session): session closed for user root
+Jun 17 02:17:01 pylon CRON[31776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 02:17:01 pylon CRON[31776]: pam_unix(cron:session): session closed for user root
+Jun 17 03:17:01 pylon CRON[31801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 03:17:01 pylon CRON[31801]: pam_unix(cron:session): session closed for user root
+Jun 17 04:17:01 pylon CRON[31832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 04:17:01 pylon CRON[31832]: pam_unix(cron:session): session closed for user root
+Jun 17 05:17:01 pylon CRON[31859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 05:17:01 pylon CRON[31859]: pam_unix(cron:session): session closed for user root
+Jun 17 06:17:01 pylon CRON[31887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:17:01 pylon CRON[31887]: pam_unix(cron:session): session closed for user root
+Jun 17 06:25:01 pylon CRON[31894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:25:01 pylon CRON[31894]: pam_unix(cron:session): session closed for user root
+Jun 17 07:17:01 pylon CRON[31917]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 07:17:01 pylon CRON[31917]: pam_unix(cron:session): session closed for user root
+Jun 17 07:30:01 pylon CRON[31925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 07:30:01 pylon CRON[31925]: pam_unix(cron:session): session closed for user root
+Jun 17 08:17:01 pylon CRON[32235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 08:17:01 pylon CRON[32235]: pam_unix(cron:session): session closed for user root
+Jun 17 09:17:01 pylon CRON[32262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 09:17:01 pylon CRON[32262]: pam_unix(cron:session): session closed for user root
+Jun 17 10:17:01 pylon CRON[32290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 10:17:01 pylon CRON[32290]: pam_unix(cron:session): session closed for user root
+Jun 17 11:17:01 pylon CRON[32319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 11:17:01 pylon CRON[32319]: pam_unix(cron:session): session closed for user root
+Jun 17 12:17:01 pylon CRON[32347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 12:17:01 pylon CRON[32347]: pam_unix(cron:session): session closed for user root
+Jun 17 13:17:01 pylon CRON[32372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 13:17:01 pylon CRON[32372]: pam_unix(cron:session): session closed for user root
+Jun 17 14:17:01 pylon CRON[32401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 14:17:01 pylon CRON[32401]: pam_unix(cron:session): session closed for user root
+Jun 17 15:17:01 pylon CRON[32428]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 15:17:01 pylon CRON[32428]: pam_unix(cron:session): session closed for user root
+Jun 17 16:17:01 pylon CRON[32455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 16:17:01 pylon CRON[32455]: pam_unix(cron:session): session closed for user root
+Jun 17 17:17:01 pylon CRON[32484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 17:17:01 pylon CRON[32484]: pam_unix(cron:session): session closed for user root
+Jun 17 18:17:01 pylon CRON[32511]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 18:17:01 pylon CRON[32511]: pam_unix(cron:session): session closed for user root
+Jun 17 19:17:01 pylon CRON[32539]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 19:17:01 pylon CRON[32539]: pam_unix(cron:session): session closed for user root
+Jun 17 20:17:01 pylon CRON[32566]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 20:17:01 pylon CRON[32566]: pam_unix(cron:session): session closed for user root
+Jun 17 21:17:01 pylon CRON[32591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 21:17:01 pylon CRON[32591]: pam_unix(cron:session): session closed for user root
+Jun 17 22:17:01 pylon CRON[32619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 22:17:01 pylon CRON[32619]: pam_unix(cron:session): session closed for user root
+Jun 17 23:17:01 pylon CRON[32650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 23:17:01 pylon CRON[32650]: pam_unix(cron:session): session closed for user root
+Jun 18 00:17:01 pylon CRON[32676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 00:17:01 pylon CRON[32676]: pam_unix(cron:session): session closed for user root
+Jun 18 01:17:01 pylon CRON[32705]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 01:17:01 pylon CRON[32705]: pam_unix(cron:session): session closed for user root
+Jun 18 02:17:01 pylon CRON[32732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 02:17:01 pylon CRON[32732]: pam_unix(cron:session): session closed for user root
+Jun 18 03:17:01 pylon CRON[32762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 03:17:01 pylon CRON[32762]: pam_unix(cron:session): session closed for user root
+Jun 18 04:17:01 pylon CRON[329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 04:17:01 pylon CRON[329]: pam_unix(cron:session): session closed for user root
+Jun 18 05:17:01 pylon CRON[361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 05:17:01 pylon CRON[361]: pam_unix(cron:session): session closed for user root
+Jun 18 06:17:01 pylon CRON[388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:17:01 pylon CRON[388]: pam_unix(cron:session): session closed for user root
+Jun 18 06:25:01 pylon CRON[394]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:25:01 pylon CRON[394]: pam_unix(cron:session): session closed for user root
+Jun 18 06:47:01 pylon CRON[402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:47:01 pylon CRON[402]: pam_unix(cron:session): session closed for user root
+Jun 18 07:17:01 pylon CRON[420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 07:17:01 pylon CRON[420]: pam_unix(cron:session): session closed for user root
+Jun 18 07:30:01 pylon CRON[428]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 07:30:01 pylon CRON[428]: pam_unix(cron:session): session closed for user root
